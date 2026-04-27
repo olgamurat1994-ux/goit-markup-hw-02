@@ -24,18 +24,8 @@ ul {
     color: #4d5ae5;
 }
 
-.logo span {
+.logo-studio {
     color: #2e2f42;
-}
-
-.nav-link {
-    font-weight: 500;
-    color: #2e2f42;
-}
-
-.nav-link:hover,
-.nav-link:focus {
-    color: #404bbf;
 }
 
 .address {
@@ -83,7 +73,7 @@ ul {
     background-color: #404bbf;
 }
 
-/* ===== SECTION 2 ===== */
+
 .features-title {
     font-weight: 500;
     font-size: 20px;
