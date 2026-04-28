@@ -14,6 +14,7 @@ ul {
 }
 
 
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -28,20 +29,36 @@ ul {
     color: #2e2f42;
 }
 
-.address {
-    font-style: normal;
+.header {
+    background-color: #ffffff;
+}
+.nav {
+    display: flex;
+    gap: 40px;
+    color: #2e2f42;
 }
 
-.address-link {
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
+.nav-link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .address-link:hover,
 .address-link:focus {
     color: #404bbf;
+    font-weight: 400
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
@@ -173,4 +190,5 @@ ul {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f
+    color: #f4f4fd;
+}
