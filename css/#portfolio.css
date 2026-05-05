@@ -1,0 +1,33 @@
+.portfolio {}
+
+.portfolio-title {
+        font-family: sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px; 
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        color: #2f2f42;
+}
+
+.portfolio-subtitle {
+        font-family: sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2f2f42;
+}
+
+.portfolio-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+.portfolio-container {}
